@@ -1,5 +1,3 @@
-# 2016web1-1
-
 <html>
   <head>
     <title>タイトル</title>
